@@ -1,0 +1,18 @@
+,Name,Retail,Groc,Transit,Workplace,Res,Park
+0,NZ,-90,-37,-87,-72,+37,-81
+1,Auckland,-88,-33,-89,-77,+41,-75
+2,Bay Of Plenty,-92,-37,-82,-66,+34,-90
+3,Canterbury,-87,-37,-88,-70,+36,-78
+4,Gisborne,-96,-92,Not,-59,Not,-77
+5,Hawke's Bay,-92,-39,-84,-58,+29,-71
+6,Manawatu-Wanganui,-93,-34,-76,-62,+31,-80
+7,Marlborough,-94,-38,-88,-57,+0%,-78
+8,Nelson,-97,-41,Not,-67,+4%,-79
+9,Northland,-91,-42,-86,-65,+31,-87
+10,Otago,-95,-49,-91,-73,+39,-86
+11,Southland,-91,-41,Not,-59,+17,-86
+12,Taranaki,-92,-34,-79,-65,+17,-91
+13,Tasman,-84,-60,Not,-60,Not,-90
+14,Waikato,-92,-41,-81,-69,+35,-87
+15,Wellington,-93,-35,-88,-79,+40,-70
+16,West Coast,-10,-59,Not,-58,Not,-91

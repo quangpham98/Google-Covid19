@@ -1,0 +1,55 @@
+,Name,Retail,Groc,Transit,Workplace,Res,Park
+0,US,-46,-11,-53,-40,+14,-2
+1,Adams County,-41,-4%,-27,-36,+14,+0%
+2,Alamosa County,-40,-15,Not,-24,Not,Not
+3,Arapahoe County,-45,-12,-27,-41,+16,+22
+4,Archuleta County,-58,-20,Not,-44,Not,Not
+5,Bent County,Not,Not,Not,-32,Not,Not
+6,Boulder County,-53,-15,-42,-45,+16,+11
+7,Broomfield County,-50,-19,-41,-41,+28,+23
+8,Chaffee County,-51,-34,Not,-41,Not,-16
+9,Clear Creek County,-87,-53,Not,-47,Not,-16
+10,Conejos County,Not,Not,Not,-36,Not,Not
+11,Delta County,-27,-11,Not,-23,+5%,+2%
+12,Denver County,-60,-8%,-71,-45,+16,-10
+13,Douglas County,-49,-19,-23,-43,+15,+18
+14,Eagle County,-69,-33,-66,-72,+26,-45
+15,El Paso County,-40,-8%,-45,-39,+13,+4%
+16,Elbert County,-19,-25,Not,-30,+0%,Not
+17,Fremont County,-19,+2%,Not,-33,+12,-5%
+18,Garfield County,-44,-17,-36,-41,+20,+16
+19,Gilpin County,Not,Not,Not,-65,Not,Not
+20,Grand County,-82,-43,-43,-59,Not,-84
+21,Gunnison County,-65,-38,Not,-49,Not,-43
+22,Huerfano County,-50,-10,Not,-28,Not,Not
+23,Jefferson County,-44,-17,-31,-41,+15,+5%
+24,Kiowa County,Not,Not,-41,Not,Not,Not
+25,Kit Carson County,-34,-20,-30,-18,Not,Not
+26,La Plata County,-51,-7%,-59,-46,+21,+21
+27,Lake County,-77,-34,Not,-55,Not,Not
+28,Larimer County,-50,-6%,-38,-39,+14,+13
+29,Las Animas County,-37,-27,Not,-28,Not,Not
+30,Lincoln County,-36,-12,-33,-26,Not,Not
+31,Logan County,-34,-13,Not,-28,Not,Not
+32,Mesa County,-36,-7%,-27,-35,+8%,+97
+33,Moffat County,-27,-24,Not,-30,Not,Not
+34,Montezuma County,-48,+2%,Not,-28,-1%,Not
+35,Montrose County,-35,-10,Not,-32,+14,Not
+36,Morgan County,-37,-17,-17,-22,+15,-4%
+37,Otero County,-25,-17,Not,-21,Not,Not
+38,Ouray County,-28,Not,Not,-56,Not,Not
+39,Park County,-63,-41,Not,-36,Not,+46
+40,Phillips County,Not,Not,Not,-39,Not,Not
+41,Pitkin County,-10,-53,-87,-72,Not,Not
+42,Prowers County,-18,-4%,-36,-14,Not,Not
+43,Pueblo County,-38,-1%,-23,-28,+10,-50
+44,Rio Blanco County,Not,Not,Not,-28,Not,Not
+45,Rio Grande County,-25,-20,Not,-24,Not,Not
+46,Routt County,-79,-48,-65,-60,-2%,-69
+47,Saguache County,Not,Not,Not,-44,Not,Not
+48,San Miguel County,-80,Not,Not,-71,Not,Not
+49,Summit County,-84,-71,-67,-64,+5%,-77
+50,Teller County,-24,-19,Not,-51,-1%,Not
+51,Washington County,Not,Not,Not,-39,Not,Not
+52,Weld County,-34,-6%,-23,-33,+14,+24
+53,Yuma County,-33,-26,Not,-23,Not,Not
